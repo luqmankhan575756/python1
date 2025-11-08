@@ -48,7 +48,7 @@ for i in marks:
     if i >60:
         newMarks.append(i)
         print(newMarks)
-
+      #this is short way to write
       #  newMarks2 = [i for i in marks if i>60]
        # print(newMarks2)
 
