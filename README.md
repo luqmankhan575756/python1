@@ -79,81 +79,150 @@ text
 Python-Course/
 │
 ├── 01_Basics/
+
 │   ├── Introduction.ipynb
-│   ├── Variables_and_Data_Types.ipynb
+
+│   ├── Variables_and_Data_Types.
+
 │   ├── Input_Output.ipynb
+
 │   └── Operators.ipynb
+
 │
+
 ├── 02_Control_Flow/
+
 │   ├── If_Else.ipynb
+
 │   ├── Loops.ipynb
+
 │   └── Pattern_Printing.ipynb
 │
 ├── 03_Data_Structures/
+
 │   ├── Lists.ipynb
+
 │   ├── Tuples.ipynb
+
 │   ├── Sets.ipynb
+
 │   ├── Dictionaries.ipynb
+
 │   └── Comprehensions.ipynb
+
 │
+
 ├── 04_Strings/
+
 │   ├── String_Methods.ipynb
+
 │   └── Regular_Expressions.ipynb
+
 │
+
 ├── 05_Functions/
+
 │   ├── Functions.ipynb
+
 │   ├── Lambda_Map_Filter.ipynb
+
 │   └── Recursion.ipynb
+
 │
+
 ├── 06_Modules_and_Files/
+
 │   ├── Modules_Packages.ipynb
+
 │   ├── File_Handling.ipynb
+
 │   └── CSV_JSON.ipynb
+
 │
+
 ├── 07_Exception_Handling/
+
 │   ├── Try_Except.ipynb
+
 │   └── Custom_Exceptions.ipynb
-│
+
+
 ├── 08_OOP/
+
 │   ├── Classes_Objects.ipynb
+
 │   ├── Inheritance.ipynb
+
 │   ├── Polymorphism.ipynb
+
 │   ├── Encapsulation_Abstraction.ipynb
+
 │   └── Magic_Methods.ipynb
+
 │
+
 ├── 09_Advanced_Python/
+
 │   ├── Iterators_Generators.ipynb
+
 │   ├── Decorators.ipynb
+
 │   ├── Context_Managers.ipynb
+
 │   ├── Multithreading.ipynb
+
 │   └── Asyncio.ipynb
+
 │
+
 ├── 10_Libraries/
+
 │   ├── NumPy.ipynb
+
 │   ├── Pandas.ipynb
+
 │   ├── Matplotlib_Seaborn.ipynb
+
 │   └── Web_Scraping.ipynb
+
 │
+
 ├── 11_Testing_and_Git/
 │   ├── Debugging.ipynb
 │   └── Pytest_Basics.ipynb
 │
 ├── Projects/
+
 │   ├── Calculator.py
+
 │   ├── Number_Guessing_Game.py
+
 │   ├── Todo_App.py
+
 │   ├── Expense_Tracker.py
+
 │   └── Web_Scraper.py
+
 │
+
 ├── Datasets/
+
 │   ├── students.csv
+
 │   ├── sales_data.csv
+
 │   └── titanic.csv
+
 │
+
 ├── requirements.txt
+
 ├── LICENSE
+
 └── README.md
+
 🧭 Recommended Learning Path
+
 
 If you are using this repository to learn Python, I recommend following this order:
 
