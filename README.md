@@ -4,50 +4,65 @@ A hands-on Python learning repository containing practical Jupyter notebooks, sc
 The goal of this repository is to move from Python basics → data structures → functions → OOP → advanced Python → libraries → practical projects.
 
 🧠 Topics Covered
+
 🔰 Python Basics
+
 Introduction and Setup
 Variables and Data Types
 Input and Output
 Type Conversion
 Operators
 Comments and Docstrings
+
 🔀 Control Flow
+
 if / elif / else
 match-case
 for Loop
 while Loop
 break, continue, pass
 Nested Loops and Pattern Printing
+
 📦 Data Structures
+
 Lists
 Tuples
 Sets
 Dictionaries
 Comprehensions
 Collections Module
+
 🔤 Strings
+
 String Methods
 Slicing and Formatting
 f-Strings
 Regular Expressions
+
 ⚙️ Functions
+
 Defining Functions
 Arguments, *args, **kwargs
 Lambda Functions
 map, filter, reduce
 Recursion
 Scope (LEGB)
+
 📂 Modules and File Handling
+
 Modules and Packages
 File Read / Write
 CSV and JSON
 pathlib and os
 🛡️ Exception Handling
+
 try / except / else / finally
 Raising Exceptions
 Custom Exceptions
 Logging
+
 🧱 Object-Oriented Programming
+
 Classes and Objects
 Inheritance
 Polymorphism
@@ -55,26 +70,34 @@ Encapsulation
 Abstraction
 Magic Methods
 Dataclasses
+
 🚀 Advanced Python
+
 Iterators and Generators
 Decorators
 Context Managers
 Multithreading and Multiprocessing
 Asyncio
 Type Hints
+
 📚 Libraries
+
 NumPy
 Pandas
 Matplotlib and Seaborn
 Requests and Web Scraping
 SQLite and Databases
+
 🧪 Best Practices
+
 Debugging
 Unit Testing with pytest
 Git and GitHub
 PEP 8 and Clean Code
 Virtual Environments
+
 📁 Repository Structure
+
 text
 Python-Course/
 │
